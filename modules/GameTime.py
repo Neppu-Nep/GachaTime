@@ -78,7 +78,7 @@ class Game(commands.Cog):
             hours, minutes, seconds = time_diff.__str__().split(":")
             daily_remaining = f"{hours} hours {minutes} minutes"
 
-            if weekday:
+            if weekday or weekday == 0:
                 if weekday > current_time.weekday():
                     day_diff = weekday - current_time.weekday()
                 else:
