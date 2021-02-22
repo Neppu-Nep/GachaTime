@@ -1,0 +1,240 @@
+{
+    "AFK Arena" : {
+        "Day" : null,
+        "name" : "AFKArena.jpg"
+    },
+	"Another Eden" : {
+        "Day" : null,
+        "name" : "AnotherEden.jpg"
+    },
+    "Arknights" : {
+        "Day" : 0,
+        "name" : "Arknights.jpg"
+    },
+	"Ash Arms" : {
+        "Day" : null,
+        "name" : "AshArms.jpg"
+    },
+	"Azur Lane" : {
+        "Day" : null,
+        "name" : "AzurLane.jpg"
+    },
+	"BanG Dream! Girls Band Party!" : {
+        "Day" : null,
+        "name" : "BangDreamGBP.jpg"
+    },
+	"Blue Archive" : {
+        "Day" : null,
+        "name" : "BlueArchive.jpg"
+    },
+	"Brave Nine" : {
+        "Day" : null,
+        "name" : "BraveNine.jpg"
+    },
+    "CIRCLET PRINCESS" : {
+        "Day" : null,
+        "name" : "CircletPrincess.jpg"
+    },
+	"Cookie Run: Kingdom" : {
+        "Day" : null,
+        "name" : "CookieRunKingdom.jpg"
+    },
+	"D4DJ Groovy Mix" : {
+        "Day" : null,
+        "name" : "D4DJGroovyMix.jpg"
+    },
+	"Dengeki Bunko: Crossing Void" : {
+        "Day" : null,
+        "name" : "DBCrossingVoid.jpg"
+    },
+	"Destiny Child" : {
+        "Day" : null,
+        "name" : "DestinyChild.jpg"
+    },
+	"DISSIDIA FINAL FANTASY OPERA OMNIA" : {
+        "Day" : null,
+        "name" : "DissidiaFFOO.jpg"
+    },
+	"Dragalia Lost" : {
+        "Day" : null,
+        "name" : "DragaliaLost.jpg"
+    },
+	"DRAGON QUEST TACT" : {
+        "Day" : null,
+        "name" : "DragonQuestTact.jpg"
+    },
+    "Dream Eater" : {
+        "Day" : null,
+        "name" : "DreamEater.jpg"
+    },
+	"Elune" : {
+        "Day" : null,
+        "name" : "Elune.jpg"
+    },
+	"Epic Seven" : {
+        "Day" : null,
+        "name" : "EpicSeven.jpg"
+    },
+	"Exos Heroes" : {
+        "Day" : null,
+        "name" : "ExosHeroes.jpg"
+    },
+	"Fate/Grand Order" : {
+        "Day" : null,
+        "name" : "FateGrandOrder.jpg"
+    },
+	"Final Gear" : {
+        "Day" : null,
+        "name" : "FinalGear.jpg"
+    },
+	"Fire Emblem Heroes" : {
+        "Day" : null,
+        "name" : "FireEmblemHeroes.jpg"
+    },
+    "Genshin Impact" : {
+        "Day" : 0,
+        "name" : "GenshinImpact.jpg"
+    },
+	"Girls' Frontline" : {
+        "Day" : null,
+        "name" : "GirlsFrontline.jpg"
+    },
+	"Granblue Fantasy" : {
+        "Day" : null,
+        "name" : "GranblueFantasy.jpg"
+    },
+	"Guardian Tales" : {
+        "Day" : null,
+        "name" : "GuardianTales.jpg"
+    },
+	"GUNDAM BATTLE: GUNPLA WARFARE" : {
+        "Day" : null,
+        "name" : "GBGW.jpg"
+    },
+	"Hero Cantare" : {
+        "Day" : null,
+        "name" : "HeroCantare.jpg"
+    },
+	"Honkai Impact 3rd" : {
+        "Day" : null,
+        "name" : "HonkaiImpact3rd.jpg"
+    },
+	"Idle Heroes" : {
+        "Day" : null,
+        "name" : "IdleHeroes.jpg"
+    },
+	"ILLUSION CONNECT" : {
+        "Day" : null,
+        "name" : "IllusionConnect.jpg"
+    },
+	"King's Raid" : {
+        "Day" : null,
+        "name" : "KingsRaid.jpg"
+    },
+	"Langrisser" : {
+        "Day" : null,
+        "name" : "Langrisser.jpg"
+    },
+	"LAST CLOUDIA" : {
+        "Day" : null,
+        "name" : "LastCloudia.jpg"
+    },
+	"Looney Tunes World of Mayhem" : {
+        "Day" : null,
+        "name" : "LooneyTunesWoM.jpg"
+    },
+	"Love Live! School Idol Festival ALL STARS" : {
+        "Day" : null,
+        "name" : "LoveLiveSIFAllStars.jpg"
+    },
+	"Magia Record" : {
+        "Day" : null,
+        "name" : "MagiaRecord.jpg"
+    },
+	"Magicami" : {
+        "Day" : null,
+        "name" : "Magicami.jpg"
+    },
+	"Millennium War Aigis" : {
+        "Day" : null,
+        "name" : "MWAigis.jpg"
+    },
+	"Oshiro Project:RE Castle Defense" : {
+        "Day" : null,
+        "name" : "ShiroProRe.jpg"
+    },
+	"Pokemon Masters" : {
+        "Day" : null,
+        "name" : "PokemonMasters.jpg"
+    },
+	"Princess Connect! Re:Dive" : {
+        "Day" : null,
+        "name" : "PrincessConnectReDive.jpg"
+    },
+	"RED: Pride of Eden" : {
+        "Day" : null,
+        "name" : "REDPrideOfEden.jpg"
+    },
+	"Revue Starlight Re LIVE" : {
+        "Day" : null,
+        "name" : "RevueStarlightRL.jpg"
+    },
+	"Romancing SaGa Re;univerSe" : {
+        "Day" : null,
+        "name" : "RomancingSagaReUniverse.jpg"
+    },
+	"Saint Seiya: Awakening" : {
+        "Day" : null,
+        "name" : {
+            "SEA" : "SaintSeiyaAwakening.jpg",
+            "Global" : "SaintSeiyaAwakeningGlobal.jpg"
+        }
+    },
+	"Sdorica" : {
+        "Day" : null,
+        "name" : "Sdorica.jpg"
+    },
+	"SHIN MEGAMI TENSEI Liberation Dx2" : {
+        "Day" : null,
+        "name" : "SMTLDx2.jpg"
+    },
+	"Shining Beyond" : {
+        "Day" : null,
+        "name" : "ShiningBeyond.jpg"
+    },
+	"SINoALICE" : {
+        "Day" : null,
+        "name" : "SINoALICE.jpg"
+    },
+	"SWORD ART ONLINE Alicization Rising Steel" : {
+        "Day" : null,
+        "name" : "SAOARS.jpg"
+    },
+	"TALES OF CRESTORIA" : {
+        "Day" : null,
+        "name" : "TalesOfCrestoria.jpg"
+    },
+	"The Seven Deadly Sins: Grand Cross" : {
+        "Day" : null,
+        "name" : {
+            "Global" : "NanatsuGrandCrossGlobal.jpg",
+            "JP" : "NanatsuGrandCross.jpg"
+        }
+    },
+	"Tokyo Afterschool Summoners" : {
+        "Day" : null,
+        "name" : "TokyoAfterschoolSummoners.jpg"
+    },
+	"Tokyo NECRO: SUICIDE MISSION" : {
+        "Day" : null,
+        "name" : "TokyoNecroSuicideMission.jpg"
+    },
+	"Toram Online" : {
+        "Day" : null,
+        "name" : "ToramOnline.jpg"
+    },
+	"World Flipper" : {
+        "Day" : null,
+        "name" : "WorldFlipper.jpg"
+    }
+}

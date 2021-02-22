@@ -1,0 +1,10 @@
+{
+    "token" : "1234567890abcdefghijklmnopqrstuvwxyz",
+    "fav" : [
+        "Game Name",
+        ["Game Name", "Server Name"]
+    ],
+    "prefix" : [
+        "?"
+    ]
+}
