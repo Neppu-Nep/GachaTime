@@ -7,6 +7,8 @@ __pycache__/
 *.so
 
 # User files
+CustomRemind.py
+customdata.json
 config.json
 *.bat
 

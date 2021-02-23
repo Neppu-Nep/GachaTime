@@ -56,7 +56,7 @@ class Help(commands.Cog):
         )
 
         cogs = [c for c in self.bot.cogs.keys()]
-        cogs_to_remove = ["CustomEvents", "Update"]
+        cogs_to_remove = []
         for each_cog in cogs_to_remove:
             cogs.pop(cogs.index(each_cog))
 

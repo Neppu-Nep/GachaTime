@@ -70,8 +70,11 @@ class Game(commands.Cog):
             daily_min = int(daily_min)
             current_time = datetime.datetime.now(pytz.timezone(server_timezone))
 
-            if daily_hour >= current_time.hour and daily_min > current_time.minute:
-                time_diff = datetime.timedelta(hours=daily_hour, minutes=daily_min) - datetime.timedelta(hours=current_time.hour, minutes=current_time.minute, seconds=current_time.second)
+            if daily_hour >= current_time.hour:
+                if daily_min < current_time.minute:
+                    time_diff = datetime.timedelta(hours=daily_hour, minutes=daily_min) - datetime.timedelta(hours=current_time.hour, minutes=current_time.minute, seconds=current_time.second)
+                else:
+                    time_diff = datetime.timedelta(days=1) - datetime.timedelta(hours=current_time.hour, minutes=current_time.minute, seconds=current_time.second) + datetime.timedelta(hours=daily_hour, minutes=daily_min)
             else:
                 time_diff = datetime.timedelta(days=1) - datetime.timedelta(hours=current_time.hour, minutes=current_time.minute, seconds=current_time.second) + datetime.timedelta(hours=daily_hour, minutes=daily_min)
 
@@ -82,10 +85,13 @@ class Game(commands.Cog):
                 if weekday > current_time.weekday():
                     day_diff = weekday - current_time.weekday()
                 else:
-                    if daily_hour >= current_time.hour and daily_min > current_time.minute:
-                        day_diff = weekday - current_time.weekday()
+                    if daily_hour >= current_time.hour:
+                        if daily_min < current_time.minute:
+                            day_diff = 6 + weekday - current_time.weekday()
+                        else:
+                            day_diff = weekday - current_time.weekday()
                     else:
-                        day_diff = 6 - weekday + current_time.weekday()
+                        day_diff = 6 + weekday - current_time.weekday()
 
                 weekly_remaining = f"{day_diff} days {daily_remaining}"
             else:
